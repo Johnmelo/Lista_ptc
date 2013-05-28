@@ -51,8 +51,8 @@ int main(){
       }
     }
   }
-  for(i=0;i<2;i++){
+  /*for(i=0;i<2;i++){//by johnmelo
     printf("%1.f/%1.f/%i\n",data[i].dia,data[i].mes,data[i].ano);
-  }
+  }*/
 }
     
